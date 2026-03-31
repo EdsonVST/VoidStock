@@ -53,10 +53,9 @@ Facilitar o controle de estoque em ambientes acadêmicos, evitando:
 
 ## 👥 Equipe
 
-- **Product Owner / Tech Lead:** Laryssa Gabrielly Marquesin  
-- **Scrum Master:** Cauê Henrique Ricardo  
-- **Desenvolvedor:** Edson Vinicio  
-- **Projetista:** Micael Almeida  
+- **Product Owner / Tech Lead:** Edson Vinicio 
+- **Scrum Master:** Laryssa Gabrielly Marquesin  
+- **Desenvolvedor:** Cauê Henrique Ricardo, Edson Vinicio, Laryssa Gabrielly Marquesin e Micael Almeida   
 
 ## 🛠️ Tecnologias
 
@@ -75,7 +74,6 @@ Facilitar o controle de estoque em ambientes acadêmicos, evitando:
 
 ## 📄 Documentação
 
-A documentação completa está disponível na pasta `/docs`.
 
 ## 📌 Status
 
